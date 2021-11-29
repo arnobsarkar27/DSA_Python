@@ -11,4 +11,4 @@ def gcd(num1,num2):
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 
-print("Hightst common factor: ",gcd(num1,num2))
+print("Highest common factor: ",gcd(num1,num2))
